@@ -1,5 +1,5 @@
-Building Litecoin
+Building Safebillionaire
 ================
 
 See doc/build-*.md for instructions on building the various
-elements of the Litecoin Core reference implementation of Litecoin.
+elements of the Safebillionaire Core reference implementation of Safebillionaire.

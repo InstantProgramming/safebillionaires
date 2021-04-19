@@ -1,11 +1,11 @@
 *.tar.gz
 
 *.exe
-src/litecoin
-src/litecoind
-src/litecoin-cli
-src/litecoin-tx
-src/litecoin-wallet
+src/safebillionaire
+src/safebillionaired
+src/safebillionaire-cli
+src/safebillionaire-tx
+src/safebillionaire-wallet
 src/test/test_litecoin
 src/test/test_litecoin_fuzzy
 src/qt/test/test_litecoin-qt
@@ -83,13 +83,13 @@ src/qt/bitcoin-qt.includes
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-litecoin-qt
-litecoin-Qt.app
+safebillionaire-qt
+safebillionaire-Qt.app
 background.tiff*
 
 # Unit-tests
 Makefile.test
-litecoin-qt_test
+safebillionaire-qt_test
 
 # Resources cpp
 qrc_*.cpp
